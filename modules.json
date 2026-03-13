@@ -1,0 +1,37 @@
+[
+  {
+    "id": "M0_75",
+    "name": "Módulo 0.75",
+    "length_links": 15,
+    "description": "Módulo corto",
+    "enabled": true
+  },
+  {
+    "id": "M1_00",
+    "name": "Módulo 1.00",
+    "length_links": 20,
+    "description": "Módulo estándar",
+    "enabled": true
+  },
+  {
+    "id": "M1_25",
+    "name": "Módulo 1.25",
+    "length_links": 25,
+    "description": "Módulo largo",
+    "enabled": true
+  },
+  {
+    "id": "M1_50",
+    "name": "Módulo 1.50",
+    "length_links": 30,
+    "description": "Módulo extra largo",
+    "enabled": true
+  },
+  {
+    "id": "M2_00",
+    "name": "Módulo 2.00",
+    "length_links": 40,
+    "description": "Módulo mayor capacidad",
+    "enabled": true
+  }
+]
